@@ -20,6 +20,7 @@ export default function Hero() {
             A premier institution at the intersection of color science, biotechnology, and modern engineering. Learn from leading researchers and build a career that shapes tomorrow.
           </p>
 
+        
           <div className="mt-8 flex items-center gap-3">
             <a href="#admissions" className="inline-flex items-center justify-center rounded-lg bg-slate-900 px-4 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-slate-800 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-slate-400">
               Start Application
